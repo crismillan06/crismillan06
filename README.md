@@ -40,4 +40,4 @@
 * [LinkedIn](https://www.linkedin.com/in/crismillanc)
 * [Email](mailto:crismillanc06@gmail.com)
 
-Mi cuenta de github educativa [crismillan06](https://github.com/crismillan06/crismillan06)  
+Mi cuenta de github educativa es [cmilcas882](https://github.com/cmilcas882)  
