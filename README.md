@@ -31,7 +31,7 @@
 
 ## 📈 Estadísticas de GitHub
 
-![Cristian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
+![Cristian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=crismillan06&show_icons=true&theme=radical)
 
 ---
 
