@@ -35,7 +35,7 @@
 
 ---
 
-## 📩 ¡Conectemos!
+## 📩 ¡Mis redes!
 
 * [LinkedIn](https://www.linkedin.com/in/crismillanc)
 * [Email](mailto:crismillanc06@gmail.com)
