@@ -1,16 +1,41 @@
-## Hi there 👋
+# ¡Hola, soy Cristian! 👋
 
-<!--
-**crismillan06/crismillan06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí
 
-Here are some ideas to get you started:
+💻 Actualmente me estoy especializando en **Ciberseguridad en Entornos de las Tecnologías de la Información**. Mi formación como **Administrador de Sistemas Informáticos en Red** me proporciona una base sólida para entender y abordar la seguridad en el entorno IT.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Habilidades y Certificaciones
+
+### Certificaciones
+
+* **Ciberseguridad**:
+  * Introduction to Cybersecurity, Cisco
+  * Cybersecurity Essentials, Cisco
+  * Fundamentos del Análisis de Sistemas, INCIBE - Instituto Nacional de Ciberseguridad
+* **Redes**:
+  * CCNA Routing and Switching: Introducción a redes, Cisco
+    
+---
+
+## 🛠️ Tecnologías y herramientas
+
+- 🔐 **Ciberseguridad**: Análisis forense, auditoría de seguridad, pruebas de penetración.
+- 🖥️ **Sistemas Operativos**: Kali Linux, Windows Server, Linux, Windows.
+- 🛠️ **Herramientas**: Autopsy, Volatility, Wireshark, Metasploit.
+- 📌 **Lenguajes**: Python, Bash Scripting.
+- ☁️ **Cloud & Virtualización**: VMware, VirtualBox, Docker.
+
+---
+
+## 📈 Estadísticas de GitHub
+
+![Cristian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
+
+---
+
+## 📩 ¡Conectemos!
+
+* [LinkedIn](https://www.linkedin.com/in/crismillanc)
+* [Email](mailto:crismillanc06@gmail.com)
