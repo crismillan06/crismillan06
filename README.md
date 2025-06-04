@@ -1,4 +1,5 @@
-# ¡Hola, soy Cristian! ![Hola GIF](hola.gif)
+# ¡Hola, soy Cristian! 
+![Hola GIF](hola.gif)
 
 ## Sobre mí
 
