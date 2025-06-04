@@ -1,4 +1,4 @@
-# ¡Hola, soy Cristian! ![alt gift](hola.gift)
+# ¡Hola, soy Cristian! ![Hola GIF](hola.gif)
 
 ## Sobre mí
 
