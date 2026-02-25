@@ -34,7 +34,7 @@ En este perfil comparto proyectos, laboratorios y prácticas relacionados con:
 
 ## Contacto
 
-- LinkedIn: [linkedin.com/in/crismillanc](https://www.linkedin.com/in/crismillanc)
+- LinkedIn: [crismillanc](https://www.linkedin.com/in/crismillanc)
 - Email: [crismillanc06@gmail.com](mailto:crismillanc06@gmail.com)
 - Cuenta educativa: [cmilcas882](https://github.com/cmilcas882)
 
