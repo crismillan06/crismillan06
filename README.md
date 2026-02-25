@@ -40,4 +40,4 @@ En este perfil comparto proyectos, laboratorios y prácticas relacionados con:
 
 ---
 
-###### Baby steps to giant strides
+###### Author: Cristian Millán
