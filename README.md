@@ -1,10 +1,18 @@
-<h1 align="center">Hola! Soy Cristian</h1>
+<h1 align="center">Hola, soy Cristian!</h1>
 <h3 align="center">Cybersecurity Analyst | SysAdmin</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/crismillanc"><img src="https://img.shields.io/badge/LinkedIn-Cristian%20Mill%C3%A1n-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:crismillanc06@gmail.com"><img src="https://img.shields.io/badge/Email-Contactar-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/crismillanc">
+    <img src="https://img.shields.io/badge/LinkedIn-Cristian%20Mill%C3%A1n-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:crismillanc06@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contactar-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
   <img src="https://img.shields.io/badge/Ubicación-Málaga%2C%20España-1f6feb?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img width="220" alt="spider" src="https://github.com/user-attachments/assets/50b6c5ec-844e-488e-99bf-67b5d58012ca" />
 </p>
 
 ---
@@ -24,15 +32,6 @@ En este perfil comparto proyectos, laboratorios y prácticas relacionados con:
   
 ---
 
-## Estadísticas de GitHub
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=crismillan06&show_icons=true&theme=radical&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crismillan06&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
-
 ## Contacto
 
 - LinkedIn: [linkedin.com/in/crismillanc](https://www.linkedin.com/in/crismillanc)
@@ -41,4 +40,4 @@ En este perfil comparto proyectos, laboratorios y prácticas relacionados con:
 
 ---
 
-###### Baby steps to giant strides.
+###### Baby steps to giant strides
